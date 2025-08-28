@@ -84,5 +84,5 @@ El objetivo principal del proyecto es **ofrecer información educativa y cultura
 
 ## ✍️ Autores
 
- 
+
 * **Valentina Mancilla Casanova**
